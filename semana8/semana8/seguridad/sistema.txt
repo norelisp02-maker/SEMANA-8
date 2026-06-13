@@ -1,0 +1,3 @@
+**Resumen:**
+
+Cada comando muestra información específica del sistema, como el sistema operativo, la memoria disponible, el uso del procesador, los discos, los usuarios conectados o la configuración de red. Conocer esta información es útil para administrar un servidor porque permite monitorear su funcionamiento, detectar problemas, optimizar el rendimiento y garantizar la seguridad y estabilidad de los servicios que ofrece.
